@@ -8,6 +8,6 @@ if username == 'admin':
 else:
     if password_length >= 6:
         print("Login successful.")
-        else:
-            print("User password must be 6+ characters.")
+    else:
+        print("User password must be 6+ characters.")
 
